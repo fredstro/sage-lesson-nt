@@ -34,7 +34,7 @@ An overview of the different topics covered in the lessons are as follows;
 - Lesson 9: Finite matrix groups
     - Finite matrix groups and group characters
 
-**Note**: These lessons are completely new and currently under development in the sense that we don't know how long time they will take or if we miss something important. Please provide feedback to the author: Fredrik Stromberg (mailto://fredrik314@gmail.com)
+**Note**: These lessons are completely new and currently under development in the sense that we don't know how long time they will take or if we miss something important. Please provide feedback to the author: Fredrik Stromberg (fredrik314@gmail.com)
 
 ## References
 
