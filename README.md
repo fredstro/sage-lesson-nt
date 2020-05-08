@@ -34,11 +34,17 @@ An overview of the different topics covered in the lessons are as follows;
 - Lesson 9: Finite matrix groups
     - Finite matrix groups and group characters
 
-**Note**: These lessons are completely new and currently under development in the sense that we don't know how much time they will take for students to complete or if we miss something important. Please provide feedback to the author: Fredrik Stromberg (fredrik314@gmail.com)
+**Note**: These lessons are completely new and currently under development
+in the sense that we don't know how much time they will take for students
+to complete or if we miss something important. Please provide feedback
+to the author: Fredrik Stromberg (fredrik314@gmail.com).
 
 ## References
 
-The starting point for all queries about SageMath is the official documentation page: 
-https://doc.sagemath.org/html/en/
+The starting point for all queries about SageMath
+is the official documentation page: 
 
-On this page you can find links to the reference manual, a general tutorial and a list of topical tutorials.
+- https://doc.sagemath.org/html/en/
+
+On this page you can find links to the reference manual,
+a general tutorial and a list of topical tutorials.
